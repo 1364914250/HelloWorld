@@ -1,0 +1,13 @@
+#include<iostream>
+
+using namespace std;
+
+void myPrint()
+{
+}
+
+int main()
+{
+myPrint();
+return 0 ;
+}
