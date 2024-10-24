@@ -5,6 +5,7 @@ using namespace std;
 
 void myPrint()
 {
+# 小王进行的代码注释
 cout <<"hello"<<endl;
 }
 
