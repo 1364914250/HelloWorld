@@ -10,6 +10,7 @@ cout <<"hello"<<endl;
 
 int main()
 {
+# 小张进行的注释修改
 myPrint();
 return 0 ;
 }
