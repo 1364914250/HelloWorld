@@ -1,9 +1,11 @@
 #include<iostream>
+#include<string>
 
 using namespace std;
 
 void myPrint()
 {
+cout <<"hello"<<endl;
 }
 
 int main()
